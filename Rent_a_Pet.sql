@@ -156,7 +156,7 @@ FROM TB_RENTS_FINAL
 /* RESPONDENDO AS PERGUNTAS */
 
 /* 5. Como melhorar o faturamento do app? 
-Resposta: Criar programas de fidelidade para os clientes que fazem alugúeis com recorrência.
+Resposta: Criar programas de fidelidade para os clientes que fazem aluguéis com recorrência.
 */
 
 /* 6. Como fazer mais pessoas usarem o app? 
@@ -164,12 +164,12 @@ Resposta: Criar campanhas online, nos sites e redes sociais de instituições de
 */
 
 /* 7. Como melhorar a experiência do cliente? 
-Resposta: Para os clinetes que já usam o aplicativo, seria interessante exibir um opção para repetir o mesmo aluguél, 
+Resposta: Para os clientes que já usam o aplicativo, seria interessante exibir uma opção para repetir o mesmo aluguel, 
 para evitar que ele preencha tudo de novo.
 */
 
 /* 8. Como tornar o app mais confiável para empresas? 
-Resposta: Considerando que os clientes poderão realizar apenas aluguéis pelo aplicativo, foi criado um sistema de logs, 
+Resposta: Considerando que os clientes poderão realizar apenas aluguéis pelo aplicativo, foi criado um sistema de logs, 
 para garantir o controle das solicitações feitas por eles.
 */
 
